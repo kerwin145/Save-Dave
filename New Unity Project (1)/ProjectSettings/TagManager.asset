@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - MainCanvas
+  - Familiar
+  - Monocyte
+  - FamiliarMonocyte
+  - Slider
+  - ManaBarSlider
+  - Neutrophil
+  - Cytokine
+  - InfectedCell
+  - tCell
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemies and Allies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2393685237
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: GameObjects
+    uniqueID: 2065356273
+    locked: 0
